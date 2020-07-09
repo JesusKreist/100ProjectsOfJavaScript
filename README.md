@@ -1,15 +1,4 @@
-# 100+ Javascript Projects for Beginners by JSBeginners.com
-This is the entry repository for all of my projects over at, JSBeginners.com.
-
-If you want to see these projects in action, go to [100+ javascript projects for beginners](https://jsbeginners.com/javascript-projects-for-beginners/).  
-
-Follow the links on the above page to see the individual project and to see the source from which the project came. 
-
-You'll also find the link to each project's individual source files so **you can do all these beginner projects yourself**. 
-
-**Please note, if there isn't a link to one of the projects on the page above, I just haven’t completed the project yet.**
-
-## List of 100+ JavaScript Projects for Beginners
+I'm forking the projects from JSBeginner and I'll be working on them. When I finish one, I'll append a star to it.
 
 1. Change Background Color Project
 2. Hex Change Background Color Project
